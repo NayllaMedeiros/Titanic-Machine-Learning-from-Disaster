@@ -25,8 +25,8 @@ For this project I used:
 * **from sklearn.linear_model ('import LinearRegression')**
 * **from sklearn.ensemble ('import RandomForestClassifier')**
 * * For to clean:
-  **from sklearn.preprocessing import MinMaxScaler**
-  **from sklearn.preprocessing import OneHotEncoder**
+* **from sklearn.preprocessing import MinMaxScaler**
+* **from sklearn.preprocessing import OneHotEncoder**
 
   ## Clean
   For to clean the datas, I first imported the data, then visualized it, observed its types and then started cleaning.
